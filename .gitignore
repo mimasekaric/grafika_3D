@@ -20,15 +20,12 @@
 *.obj
 *.exe
 *.dll
-*.lib
 *.exp
 *.ilk
 *.log
 
 # Debug/Release folderi
 Debug/
-Release/
-x64/
 x86/
 
 # CMake
